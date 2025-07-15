@@ -41,6 +41,11 @@ This is a pet project inspired by and following along JavaScript Mastery tutoria
 - TypeScript
 - react-native-safe-area-context
 - Swiper (react-native-swiper)
+- react-native-maps, react-native-maps directions
+
+API
+- Geoapify
+- Google Maps Platform - Places API, Direction API
 
 ### What I learned
 
