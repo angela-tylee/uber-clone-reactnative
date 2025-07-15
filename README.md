@@ -28,7 +28,7 @@ This is a pet project inspired by and following along JavaScript Mastery tutoria
   
 ### Links
 
-- Solution URL: [[Add solution URL here](https://your-solution-url.com)](https://github.com/angela-tylee/uber-clone-reactnative)
+- Solution URL: https://github.com/angela-tylee/uber-clone-reactnative
 - Live Site URL: (not yet deployed)
 
 ## My Process
