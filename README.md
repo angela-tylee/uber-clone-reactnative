@@ -42,9 +42,10 @@ This is a pet project inspired by and following along JavaScript Mastery tutoria
 - react-native-safe-area-context
 - Swiper (react-native-swiper)
 - react-native-maps, react-native-maps directions
+  - NOTE: `npx expo install react-native-maps`
 
 API
-- Geoapify
+- [Geoapify](https://geoapify.com/)
 - Google Maps Platform - Places API, Direction API
 
 ### What I learned
