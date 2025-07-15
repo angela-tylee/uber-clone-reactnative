@@ -9,6 +9,7 @@ const Home = () => {
     //   <Text>Home</Text>
     // </SafeAreaView>
     // <Redirect href="/(root)/(tabs)/home" />
+
     <Redirect href="/(auth)/welcome" />
   );
 };

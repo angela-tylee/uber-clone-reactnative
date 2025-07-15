@@ -6,7 +6,6 @@ import "react-native-reanimated";
 // SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
-  // const colorScheme = useColorScheme();
   const [loaded] = useFonts({
     "Jakarta-Bold": require("../assets/fonts/PlusJakartaSans-Bold.ttf"),
     "Jakarta-ExtraBold": require("../assets/fonts/PlusJakartaSans-ExtraBold.ttf"),

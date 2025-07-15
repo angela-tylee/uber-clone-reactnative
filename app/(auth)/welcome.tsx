@@ -14,7 +14,6 @@ const Onboarding = () => {
 
   return (
     <SafeAreaView className="flex h-full items-center justify-between bg-white">
-      <Text>Onboarding</Text>
       <TouchableOpacity
         onPress={() => {
           // router.replace("/(auth)/sign-in");
