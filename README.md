@@ -1,50 +1,71 @@
-# Welcome to your Expo app 👋
+# Project Title
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Table of contents
 
-## Get started
+- [Project Title](#project-title)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My Process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
 
-1. Install dependencies
+## Overview
 
-   ```bash
-   npm install
-   ```
+This is a pet project inspired by and following along JavaScript Mastery tutorial: [Build a Full Stack React Native App with Payments | PostgreSQL, TypeScript, Stripe, Tailwind](https://www.youtube.com/watch?v=kmy_YNhl0mw)
 
-2. Start the app
+(All credits belong to the original author)
 
-   ```bash
-   npx expo start
-   ```
+### Screenshot
+  
+### Links
 
-In the output, you'll find options to open the app in a
+- Solution URL: [[Add solution URL here](https://your-solution-url.com)](https://github.com/angela-tylee/uber-clone-reactnative)
+- Live Site URL: (not yet deployed)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## My Process
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Built with
 
-## Get a fresh project
+- React Native
+- Expo
+- NativeWind (Tailwind)
+- TypeScript
+- react-native-safe-area-context
+- Swiper (react-native-swiper)
 
-When you're ready, run:
+### What I learned
 
-```bash
-npm run reset-project
-```
+- React Native: Core components
+  -  View: similar with html `<div>`
+  -  Text: similar with html `<h1>`, `<p>`...etc
+  -  Image: use its `source` mostly like `<img src="">`
+  -  TouchableOpacity: add touch interactivity (use it like a `<button>` )
+  -  FlatList: render a list
+  -  ActivityIndicator: use as a loader
+- Expo: Installation and Setup for React Native project
+  - `_layout`
+  - `(root)/(tabs)`
+- Expo router: Routing for React Native
+  -  Stack
+  -  Tab
+  -  Redirect
+  -  router
+- TypeScript
+  - declare `interface` in file `/types/type.d.ts`
+- Use Tailwind and Swiper with React Native
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Continued development
 
-## Learn more
+- Add Search and Book rides interactivity.
+- Add Stripe API for payment checkout.
+- Add database and auth for sign-in / out
 
-To learn more about developing your project with Expo, look at the following resources:
+### Useful resources
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [Expo - Guide](https://docs.expo.dev/guides/overview/)
+- [React Native - Core Components](https://reactnative.dev/docs/components-and-apis)
+- [NativeWind - Installation](https://www.nativewind.dev/docs/getting-started/installation)
