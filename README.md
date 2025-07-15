@@ -20,6 +20,11 @@ This is a pet project inspired by and following along JavaScript Mastery tutoria
 (All credits belong to the original author)
 
 ### Screenshot
+
+<img width="170" height="2532" alt="IMG_6915" src="https://github.com/user-attachments/assets/9d8d5835-9213-408c-bd1b-eb9e533db3c2" />
+<img width="170" height="2532" alt="IMG_6916" src="https://github.com/user-attachments/assets/6db4fdea-ed62-48e6-8c36-077dea08c127" />
+<img width="170" height="2532" alt="IMG_6917" src="https://github.com/user-attachments/assets/4ebb5640-33cf-43ac-b957-ddb0aa635ba0" />
+
   
 ### Links
 
