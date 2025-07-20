@@ -1,5 +1,3 @@
-# Project Title
-
 ## Table of contents
 
 - [Project Title](#project-title)
